@@ -1,0 +1,26 @@
+
+header{
+    background-image:linear-gradient(90deg, #181818 0%, rgba(24, 24, 24, 0.822917) 24.48%, rgba(24, 24, 24, 0) 100%), url('../images/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+.bg-color{
+    background-color: #264653;
+}
+.banner-height{
+    height: 80vh;
+}
+.color-bike{
+    filter: grayscale(1);
+}
+.rating i{
+    color: #e77c40;
+}
+.body-margin{
+    margin: 170px 0;
+}
